@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.Form1.resources
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\bin\Debug\net45\CRUD.exe.config
+C:\Users\Asus\source\repos\CRUD\CRUD\bin\Debug\net45\CRUD.exe
+C:\Users\Asus\source\repos\CRUD\CRUD\bin\Debug\net45\CRUD.pdb
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.exe
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.pdb
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net45\CRUD.csprojAssemblyReference.cache

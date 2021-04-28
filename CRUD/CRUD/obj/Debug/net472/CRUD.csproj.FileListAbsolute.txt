@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.Form1.resources
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CRUD\CRUD\obj\Debug\net472\CRUD.csproj.CoreCompileInputs.cache
